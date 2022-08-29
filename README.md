@@ -1,5 +1,7 @@
 # TextEncryptDecrypt
- *Start by running main.cpp on c++ enviroment*
+ *Start by compilling and building main.cpp on c++ enviroment*
+ 
+ *Run main.exe from root*
  
  *Go as per instructions*
  
